@@ -15,7 +15,6 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@atlaskit/code": "^14.1.5",
     "bulma": "^0.9.3",
     "carbon-components": "^10.47.0",
     "carbon-components-react": "^7.47.0",
