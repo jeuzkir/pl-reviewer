@@ -61,6 +61,7 @@ var lessons = [
       { to: '/php/datatypes', name: 'PHP Data Types' },
       { to: '/php/strings', name: 'PHP Strings' },
       { to: '/php/ifelseif', name: 'PHP If...Else...Elseif' },
+      { to: "/php/quiz", name: "PHP Quiz"}
     ]
   }
 ]
